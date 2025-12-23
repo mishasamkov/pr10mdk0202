@@ -12,6 +12,7 @@ namespace ApiGigaChat
 {
     class Program
     {
+
         public static string ClientId = "019b285e-c114-72cc-b636-b11cfb5fd760";
         public static string AuthorizationKey = "MDE5YjI4NWUtYzExNC03MmNjLWI2MzYtYjExY2ZiNWZkNzYwOjllOGM5OGRjLTc5MDgtNDAwMi1hN2QwLWNmZWU0ZmE2NGM0OQ==";
         static async Task Main(string[] args)
