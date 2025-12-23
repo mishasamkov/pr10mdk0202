@@ -46,7 +46,6 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Classes\WallpaperSetter.cs" />
     <Compile Include="Models\Request.cs" />
     <Compile Include="Models\Response\ResponseMessage.cs" />
     <Compile Include="Models\Response\ResponseToken.cs" />
